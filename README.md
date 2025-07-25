@@ -21,6 +21,8 @@ This repository investigates how well **diffusion models** (DDPMs) can generate 
 | `08_stable_diffusion.py` | Fine-tunes **Stable Diffusion v2.1** using LoRA for each class prompt |
 | `09_Stable_Diffusion_Image_Generation.ipynb` | Uses the fine-tuned LoRA model to generate new images |
 | `10_Classification_Stable_Diffusion_Augmentation.ipynb` | Tests whether adding generated images improves classifier performance |
+| `OliverGerardoo_Term_Poster-1.pdf` | Summary of applying stable diffusion for image augmentation and comparing which method works the best |
+
 
 ---
 
